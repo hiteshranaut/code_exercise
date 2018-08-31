@@ -1,6 +1,4 @@
 IRITUS - code exercise
-Goal of this task is to check knowledge of Rails framework, testing practices and building decoupled software by using OOP principles. 
-
 
 Requirements 
 Create a simple ( Rails 4.x ) application which exposes: 
